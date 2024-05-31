@@ -104,5 +104,4 @@ public interface IDutyIntervalSet<L>{
      * @return double, 空闲时间比率
      */
     public double calculateFreeTime();
-    //这是一个修改
 }
